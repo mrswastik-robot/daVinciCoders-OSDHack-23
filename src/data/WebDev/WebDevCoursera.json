@@ -1,0 +1,50 @@
+[ 
+    { 
+      "about": "HTML and CSS, Web Development", 
+      "id": 1, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/83/e258e0532611e5a5072321239ff4d4/jhep-coursera-course4.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9529", 
+      "rating": "Rating: 4.7 out of 5", 
+      "title": "HTML, CSS, and Javascript for Web Developers" 
+    }, 
+    { 
+      "about": "Web Development, Cloud Computing, IBM Cloud, Software Engineering,", 
+      "id": 2, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/18/2aa16c328a457cb910aa933bf2cd87/Professional-Certificate-Cloud-App.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9529", 
+      "rating": "Rating: 4.6 out of 5", 
+      "title": "IBM Full Stack Software Developer" 
+    }, 
+    { 
+      "about": "Beginner · Professional Certificate · 3-6 Months", 
+      "id": 3, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/ed/d25c0d25114924a34754928dbf8273/Front-end-dev-ProCert.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9449", 
+      "rating": "Rating: 4.7 out of 5", 
+      "title": "Meta Front-End Developer" 
+    }, 
+    { 
+      "about": "Web Development, HTML and CSS, Computer Programming, Javascript", 
+      "id": 4, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d2j5ihb19pt1hq.cloudfront.net/sdp_page/s12n_logos/webdesign.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9529", 
+      "rating": "Rating: 4.7 out of 5", 
+      "title": "Web Design for Everybody: Basics of Web Development & Coding" 
+    }, 
+    { 
+      "about": "HTML and CSS, Web Development, React (web framework),", 
+      "id": 5, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/fe/7320a26ec945e6ae1a3251d38d43b2/front-end-dev1.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9449", 
+      "rating": "Rating: 4.8 out of 5", 
+      "title": "Introduction to Front-End Development" 
+    }, 
+    { 
+      "about": "Computer Programming, Web Development, Python Programming, Statistical Programming", 
+      "id": 6, 
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/1e/d2f5a0dc494722980faf74d9fa8fc8/Back-end-dev-ProCert.jpg?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50", 
+      "price": "Current price: \u20b9499", 
+      "rating": "Rating: 4.8 out of 5", 
+      "title": "Meta Back-End Developer" 
+    }
+  ]
