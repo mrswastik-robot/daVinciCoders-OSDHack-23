@@ -22,7 +22,8 @@ import DsaUdemy from './data/DSA/dsaUdemy.json';
 import DsaCoursera from './data/DSA/dsaCoursera.json';
 import DsaGfg from './data/DSA/dsaGfg.json';
 
-import Chatbot from "./components/Chatbot";
+// import Chatbot from "./components/Chatbot";
+import MockData from './data/MOCK_Searches.json';
 
 
 function App() {
@@ -47,6 +48,11 @@ function App() {
   // useEffect(() => {
   //   getData();
   // }, []);
+
+  const onSearch =(searchTerm) => {
+    setSearch(searchTerm);
+
+  }
 
   const [search, setSearch] = useState('');
   const [udemy, setUdemy] = useState([]);
@@ -115,14 +121,48 @@ coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on
           type="text"
           placeholder="Search..."
           className=" flex-1 outline-none bg-transparent text-white placeholder:text-white"
+          value={search}
           onChange={(e) => setSearch(e.target.value)}
         />
 
-        <button hidden type="submit" onSubmit={handleSearch}>
+        <button hidden type="submit" onClick={() => onSearch(search)}>
           Search
         </button>
         <MagnifyingGlassIcon className=" h-6 w-6 text-white" />
-      </form>
+
+        </form>
+
+
+
+
+
+
+        <div className="dropdown flex flex-col w-[280px] ml-[17rem]">
+          {MockData
+            .filter((item) => {
+              const searchTerm = search.toLowerCase();
+              const fullName = item.full_name.toLowerCase();
+
+              return (
+                searchTerm &&
+                fullName.startsWith(searchTerm) &&
+                fullName !== searchTerm
+              );
+            })
+            .slice(0, 10)
+            .map((item) => (
+              <div
+                onClick={() => onSearch(item.full_name)}
+                className="dropdown-row"
+                key={item.full_name}
+              >
+                {item.full_name}
+              </div>
+            ))}
+        </div>
+
+
+      
 
       <a href="https://jolly-stroopwafel-b49a59.netlify.app/" className=" rounded-full" ><img className=" h-[5rem] w-[5rem] ml-5 mt-9 shadow-2xl hover:-rotate-45 rounded-full fixed" src={chatbotpng}/></a>
 
