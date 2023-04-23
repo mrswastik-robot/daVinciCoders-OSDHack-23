@@ -35,6 +35,8 @@ Tired of searching  for  courses  online?  ClashCourse.com  is  a  one  and only
 
 ----PART 2----(**Mobile Application**)
 
+GITHUB REPO FOR MOBILE APPLICATION - https://github.com/mrswastik-robot/JobSearch
+
 
 ![image](https://user-images.githubusercontent.com/97254881/233846662-f932036a-73da-4bf8-962e-69d331fc73dd.png)
 
