@@ -1,0 +1,226 @@
+[
+    {
+      "about": "Combine the power of Data Science, Machine Learning and Deep Learning to create powerful <strong>AI</strong> for Real-World applications!",
+      "id": 1,
+      "image": "https://www.udemy.com/course/artificial-intelligence-az/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Artificial Intelligence A-Z"
+    },
+    {
+      "about": "Pass the TensorFlow Developer Certification Exam by Google. Become an <strong>AI</strong>, Machine Learning, and Deep Learning expert!",
+      "id": 2,
+      "image": "https://www.udemy.com/course/tensorflow-developer-certificate-machine-learning-zero-to-mastery/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "TensorFlow Developer Certificate in 2023: Zero to Mastery"
+    },
+    {
+      "about": "ChatGPT + 25 Powerful <strong>AI</strong> Tools 10x Your Productivity & Creativity | ChatGPT, Generative <strong>AI</strong>, Prompt Engineering, DALL-E 2",
+      "id": 3,
+      "image": "https://www.udemy.com/course/complete-ai-guide/",
+      "price": "Current price: \u20b92,499",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "ChatGPT Complete Guide: Learn Midjourney"
+    },
+    {
+      "about": "Learn Data Science, Data Analysis, Machine Learning (Artificial Intelligence) and Python with Tensorflow, Pandas & more!",
+      "id": 4,
+      "image": "https://www.udemy.com/course/complete-machine-learning-and-data-science-zero-to-mastery/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Complete Machine Learning & Data Science Bootcamp 2023"
+    },
+    {
+      "about": "Learn to create Machine Learning Algorithms in Python and R from two Data Science experts. Code templates included.",
+      "id": 5,
+      "image": "https://www.udemy.com/course/machinelearning/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Machine Learning A-Z"
+    },
+    {
+      "about": "Solve Real World Business Problems with <strong>AI</strong> Solutions",
+      "id": 6,
+      "image": "https://www.udemy.com/course/ai-for-business/",
+      "price": "Current price: \u20b92,599",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Artificial Intelligence for Business"
+    },
+    {
+      "about": "",
+      "id": 7,
+      "image": "https://www.udemy.com/course/generativeai/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "Cocreation, AI Creativity and Generative AI"
+    },
+    {
+      "about": "",
+      "id": 8,
+      "image": "https://www.udemy.com/course/chatgpt-crash-course-automate-tasks-with-ai/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.3 out of 5",
+      "title": "The Complete ChatGPT & AI Course: ZERO TO HERO"
+    },
+    {
+      "about": "",
+      "id": 9,
+      "image": "https://www.udemy.com/course/midjourney-ai-art-generation-mastery-create-sell-ai-art/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "MidJourney AI : AI Art Generation Course Make & Sell AI Art"
+    },
+    {
+      "about": "",
+      "id": 10,
+      "image": "https://www.udemy.com/course/the-ai-marketing-playbook-market-using-jasper-chatgpt/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "CHATGPT: The AI Marketing Playbook-Content Creation With AI"
+    },
+    {
+      "about": "",
+      "id": 11,
+      "image": "https://www.udemy.com/course/ai-102-microsoft-azure-ai-solution-exam/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "Pass AI-102 Microsoft Azure AI Solution Exam in first try"
+    },
+    {
+      "about": "",
+      "id": 12,
+      "image": "https://www.udemy.com/course/certified-ai-marketing-professional-ai-content-creation/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "Certified AI Marketing Professional | AI Content Creation"
+    },
+    {
+      "about": "",
+      "id": 13,
+      "image": "https://www.udemy.com/course/exam-ai-102-designing-and-implementing-a-microsoft-azure-ai/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "Exam AI-102: Designing and Implementing a Microsoft Azure AI"
+    },
+    {
+      "about": "",
+      "id": 14,
+      "image": "https://www.udemy.com/course/the-future-of-intelligence-an-ai-journey/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "The Future of Intelligence: An AI Journey"
+    },
+    {
+      "about": "Case Studies, Innovations and Lessons from the Trenches of Artificial Intelligence (<strong>AI</strong>) & Machine Learning (ML) Startups",
+      "id": 15,
+      "image": "https://www.udemy.com/course/artificialintelligencestartups/",
+      "price": "Current price: \u20b92,999",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "How To Build AI / Machine Learning Startups | Sramana MitraCase Studies, Innovations and Lessons from the Trenches of Artificial Intelligence"
+    },
+    {
+      "about": "Discover the power of Artificial Intelligence with OpenAI's powerful API to generate text and images in projects",
+      "id": 16,
+      "image": "https://www.udemy.com/course/openai-python-api-bootcamp-learn-to-use-ai-gpt3-and-more/",
+      "price": "Current price: \u20b93,199",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "OpenAI Python API Bootcamp: Learn to use AI, GPT3, and more!Discover the power of Artificial Intelligence with OpenAI's powerful API to generate text and images in projects"
+    },
+    {
+      "about": "Learn to master this revolutionary new medium and create impressive <strong>AI</strong> Art.",
+      "id": 17,
+      "image": "https://www.udemy.com/course/midjourney-mastery/",
+      "price": "Current price: \u20b93,199",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Midjourney Mastery: Create Visually Stunning AI ArtLearn to master this revolutionary new medium and create impressive <strong>AI</strong> Art."
+    },
+    {
+      "about": "Build 5 Practical Projects & Harness the Power of <strong>AI</strong> to solve practical, real-world business problems with Zero Coding!",
+      "id": 18,
+      "image": "https://www.udemy.com/course/modern-artificial-intelligence-with-zero-coding/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Modern Artificial Intelligence with Zero CodingBuild 5 Practical Projects & Harness the Power of <strong>AI</strong> to solve practical, real-world business problems with Zero Coding!"
+    },
+    {
+      "about": "Learn how to turn this new technology into a profitable business",
+      "id": 19,
+      "image": "https://www.udemy.com/course/make-and-sell-ai-art/",
+      "price": "Current price: \u20b93,199",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Create And Sell AI Art: Make Money With AI ArtLearn how to turn this new technology into a profitable business"
+    },
+    {
+      "about": "Master deep learning in PyTorch using an experimental scientific approach, with lots of examples and practice problems.",
+      "id": 20,
+      "image": "https://www.udemy.com/course/deeplearning_x/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "A deep understanding of deep learning (with Python intro)Master deep learning in PyTorch using an experimental scientific approach, with lots of examples and practice problems."
+    },
+    {
+      "about": "Learn Artificial Intelligence with Python. Create Advanced Artificial Intelligence (<strong>AI</strong>) Applications with Python",
+      "id": 21,
+      "image": "https://www.udemy.com/course/artificial-intelligence-in-python-/",
+      "price": "Current price: \u20b92,599",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Master Artificial Intelligence 2022 : Build 6 AI ProjectsLearn Artificial Intelligence with Python. Create Advanced Artificial Intelligence (<strong>AI</strong>) Applications with Python"
+    },
+    {
+      "about": "Machine Learning & Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning, +More!",
+      "id": 22,
+      "image": "https://www.udemy.com/course/deep-learning-tensorflow-2/",
+      "price": "Current price: \u20b92,699",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Tensorflow 2.0: Deep Learning and Artificial IntelligenceMachine Learning & Neural Networks for Computer Vision, Time Series Analysis, NLP, GANs, Reinforcement Learning, +More"
+    },
+    {
+      "about": "Harness the power of <strong>AI</strong> to solve practical, real-world problems in Finance, Tech, Art and Healthcare",
+      "id": 23,
+      "image": "https://www.udemy.com/course/modern-artificial-intelligence-applications/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Modern Artificial Intelligence Masterclass: Build 6 ProjectsHarness the power of <strong>AI</strong> to solve practical, real-world problems in Finance, Tech, Art and Healthcare"
+    },
+    {
+      "about": "ChatGPT Course | Chat GPT | Artificial Intelligence Tutorial | Marketers, Business, Finance, Artists, ChatGPT <strong>AI</strong> Writing",
+      "id": 24,
+      "image": "https://www.udemy.com/course/chatgpt-how-to-maximize-ai-assistants-for-any-industry/",
+      "price": "Current price: \u20b91,999",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "ChatGPT: Absolute guide to AI Assistants ANY Industry (2023)ChatGPT Course | Chat GPT | Artificial Intelligence Tutorial | Marketers, Business, Finance, Artists, ChatGPT <strong>AI</strong> Writing"
+    },
+    {
+      "about": "Build 10 <strong>AI</strong> projects in 10 days without coding using Google Teachable Machines, DataRobot, AWS Autopilot, and Vertex <strong>AI</strong>",
+      "id": 25,
+      "image": "https://www.udemy.com/course/10-code-less-days-of-artificial-intelligence/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.3 out of 5",
+      "title": "10 Days of No Code Artificial Intelligence BootcampBuild 10 <strong>AI</strong> projects in 10 days without coding using Google Teachable Machines, DataRobot, AWS Autopilot, and Vertex <strong>AI</strong>"
+    },
+    {
+      "about": "Learn how to use Reinforcement Learning techniques to create practical Artificial Intelligence programs!",
+      "id": 26,
+      "image": "https://www.udemy.com/course/practical-ai-with-python-and-reinforcement-learning/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Practical AI with Python and Reinforcement LearningLearn how to use Reinforcement Learning techniques to create practical Artificial Intelligence programs!"
+    },
+    {
+      "about": "Enter the new era of Hybrid <strong>AI</strong> Models optimized by Deep NeuroEvolution, with a complete toolkit of ML, DL & <strong>AI</strong> models",
+      "id": 27,
+      "image": "https://www.udemy.com/course/artificial-intelligence-masterclass/",
+      "price": "Current price: \u20b92,499",
+      "rating": "Rating: 4.2 out of 5",
+      "title": "Artificial Intelligence MasterclassEnter the new era of Hybrid AI Models optimized by Deep NeuroEvolution, with a complete toolkit of ML, DL & <strong>AI</strong> models"
+    },
+    {
+      "about": "The Ultimate Artificial Intelligence & Machine Learning course for CxOs, Managers, Team Leaders and Entrepreneurs",
+      "id": 28,
+      "image": "https://www.udemy.com/course/artificial-intelligence-machine-learning-business/",
+      "price": "Current price: \u20b92,599",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Artificial Intelligence & Machine Learning for BusinessThe Ultimate Artificial Intelligence & Machine Learning course for CxOs, Managers, Team Leaders and Entrepreneurs"
+    }
+  ]

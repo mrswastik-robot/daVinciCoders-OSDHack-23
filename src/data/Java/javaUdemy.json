@@ -1,0 +1,212 @@
+[
+    {
+      "about": "Learn Java  In This Course And Become a Computer Programmer. Obtain valuable Core Java  Skills And Java  Certification",
+      "id": 1,
+      "image": "https://www.udemy.com/course/java-the-complete-java-developer-course/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Java Programming Masterclass updated to Java 17"
+    },
+    {
+      "about": "Deep Dive in Core Java  programming -Standard Edition. A Practical approach to learn Java . Become a Java  Expert",
+      "id": 2,
+      "image": "https://www.udemy.com/course/java-se-programming/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Learn JAVA Programming - Beginner to Master"
+    },
+   
+    {
+      "about": "Become an Experienced Java  Developer with Just One Course. Fully Updated with 100+ Coding Challenges!",
+      "id": 4,
+      "image": "https://www.udemy.com/course/the-complete-java-development-bootcamp/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Complete Java Development Bootcamp"
+    },
+    {
+      "about": "Full Stack Java  developer - Core Java  + JSP Servlets + Hibernate +Spring + Java  Web-service/RestFul  API + Spring boot.",
+      "id": 5,
+      "image": "https://www.udemy.com/course/full-stack-java-developer-java/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Full Stack Java developer - Java + JSP + Restful WS + Spring"
+    },
+    {
+      "about": "Covers Java  17 & Earlier, Streams/Lambdas, Regex, TDD/Testing, Optionals, JDBC/SQL Intro to Spring & More Using IntelliJ",
+      "id": 6,
+      "image": "https://www.udemy.com/course/neutrino-java-foundations/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Professional Java Developer Career Starter: Java Foundations"
+    },
+    {
+      "about": "",
+      "id": 7,
+      "image": "https://www.udemy.com/course/6-real-java-oca-exams-with-explanation-java-18-17/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "[2023] 6 REAL Java OCA Exams with explanation (JAVA 1.8-17)"
+    },
+    {
+      "about": "",
+      "id": 8,
+      "image": "https://www.udemy.com/course/java-questions/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "1100 Java Programming Interview Questions and Answers [2023]"
+    },
+    {
+      "about": "",
+      "id": 9,
+      "image": "https://www.udemy.com/course/top-50-dynamic-programming-java-algorithms-coding-questions/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.9 out of 5",
+      "title": "Top 50 Dynamic Programming Java Algorithms Coding Questions"
+    },
+    {
+      "about": "",
+      "id": 10,
+      "image": "https://www.udemy.com/course/the-complete-java-course-from-basics-to-advanced/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "The Complete Java Course: From Basics to Advanced"
+    },
+    {
+      "about": "",
+      "id": 11,
+      "image": "https://www.udemy.com/course/java-certification-ocp-1z0-819-exam-simulation-2023-p3/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "Java Certification : OCP (1Z0-819) Exam Simulation [2023]-P3"
+    },
+    {
+      "about": "",
+      "id": 12,
+      "image": "https://www.udemy.com/course/learn-about-sql-and-java-jdbc-with-practical-code-examples/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "Master Java & SQL to develop Projects using Java JDBC & SQL"
+    },
+    {
+      "about": "",
+      "id": 13,
+      "image": "https://www.udemy.com/course/java-certification-ocp-1z0-819-exam-simulation-2023-p1/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "Java Certification : OCP (1Z0-819) Exam Simulation [2023]-P1"
+    },
+    {
+      "about": "",
+      "id": 14,
+      "image": "https://www.udemy.com/course/java-certification-ocp-1z0-819-exam-simulation-2023-p2/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 5.0 out of 5",
+      "title": "Java Certification : OCP (1Z0-819) Exam Simulation [2023]-P2"
+    },
+    {
+      "about": "Become a confident industry ready core Java  developer and get certified as a Java  professional!",
+      "id": 15,
+      "image": "https://www.udemy.com/course/master-practical-java-development/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "The Complete Java Certification Course"
+    },
+   
+    {
+      "about": "Become a Computer Programmer by Learning Core Java  Skills",
+      "id": 17,
+      "image": "https://www.udemy.com/course/java-programming-complete-beginner-to-advanced/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Java Programming: Complete Beginner to Advanced"
+    },
+    {
+      "about": "A course on Java  for complete beginners to computer programming, for those who want concepts explained in plain English.",
+      "id": 18,
+      "image": "https://www.udemy.com/course/java-for-absolute-beginners/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Java for Absolute Beginners"
+    },
+    {
+      "about": "Comprehensive Java  programming course integrated with design principles, best practices & instructor-led Java  EE project",
+      "id": 19,
+      "image": "https://www.udemy.com/course/java-in-depth-become-a-complete-java-engineer/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Java In-Depth: Become a Complete Java Engineer!"
+    },
+    {
+      "about": "Learn Java  programming through examples for absolute beginner ! Become a Java  Developer and obtain core Java  skills!",
+      "id": 20,
+      "image": "https://www.udemy.com/course/practical-java-course/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Java Course for Complete Beginners with Practical Examples"
+    },
+    {
+      "about": "Learn Java  from Zero to Hero. Become a Computer Programmer and start building complex projects. Earn Java  Certification",
+      "id": 21,
+      "image": "https://www.udemy.com/course/the-complete-java-developer-course-mastering-java-from-zero/",
+      "price": "Current price: \u20b92,699",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Complete Java Developer Course -Mastering Java from zero"
+    },
+    {
+      "about": "Master java  in quick and simple steps",
+      "id": 22,
+      "image": "https://www.udemy.com/course/corejavamadeeasy/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Core Java Made Easy (Covers the latest Java 17)Master java  in quick and simple steps"
+    },
+    {
+      "about": "Learn Modern Java  From Scratch",
+      "id": 23,
+      "image": "https://www.udemy.com/course/java-11-complete-beginners/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Java 11 For Complete BeginnersLearn Modern Java  From Scratch"
+    },
+    {
+      "about": "\"TOP RATED  #1 Master SELENIUM java  4 (Latest) course\" -5 Million students learning worldWide with great collaboration",
+      "id": 24,
+      "image": "https://www.udemy.com/course/selenium-real-time-examplesinterview-questions/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Selenium WebDriver with Java -Basics to Advanced+Frameworks"
+    },
+    {
+      "about": "Direct Class Room Videos To give Left and Right Anywhere about Lambda Expressions,Streams and More",
+      "id": 25,
+      "image": "https://www.udemy.com/course/java-8-new-features-in-simple-way/",
+      "price": "Current price: \u20b92,599",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Java 8 New Features In Simple Way"
+    },
+    {
+      "about": "Become an expert in Multithreading, Concurrency & Parallel programming in Java , wit emphasis on high performance",
+      "id": 26,
+      "image": "https://www.udemy.com/course/java-multithreading-concurrency-performance-optimization/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Java Multithreading, Concurrency & Performance Optimization"
+    },
+    {
+      "about": "Learn Lambdas, Streams , new Date APIs, Optionals and Parallel programming in Java  8 by coding it.",
+      "id": 27,
+      "image": "https://www.udemy.com/course/modern-java-learn-java-8-features-by-coding-it/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Modern Java - Learn Java 8 features by coding it"
+    },
+    {
+      "about": "Learn about Arrays,  Linked Lists, Trees,  Hashtables, Stacks,  Queues,  Heaps, Sort algorithms and Search algorithms",
+      "id": 28,
+      "image": "https://www.udemy.com/course/data-structures-and-algorithms-deep-dive-using-java/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Data Structures and Algorithms:  Deep Dive Using Java"
+    }
+  ]

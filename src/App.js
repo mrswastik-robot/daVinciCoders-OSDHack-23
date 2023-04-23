@@ -22,6 +22,24 @@ import DsaUdemy from './data/DSA/dsaUdemy.json';
 import DsaCoursera from './data/DSA/dsaCoursera.json';
 import DsaGfg from './data/DSA/dsaGfg.json';
 
+
+import DataSciGFG from './data/DataScience/dataSciGFG.json';
+import DataSciUdemy from './data/DataScience/dataSciUdemy.json';
+// import DataSciCoursera from './data/DataScience/dataSciCoursera.json';
+
+
+import CyberUdemy from './data/CyberSecurity/cyberUdemy.json';
+import CyberCoursera from './data/CyberSecurity/cyberCoursera.json';
+
+
+
+
+import aiUdemy from './data/AI/aiUdemy.json';
+import aiCousera from './data/AI/aiCoursera.json'
+
+
+import javaUdemy from './data/Java/javaUdemy.json';
+
 // import Chatbot from "./components/Chatbot";
 import MockData from './data/MOCK_Searches.json';
 
@@ -88,15 +106,41 @@ function App() {
       setGfg(DsaGfg);
     }
 
+    if(search.includes('science') || search.includes('Science'))
+    {
+      setGfg(DataSciGFG);
+      setUdemy(DataSciUdemy);
+
+    }
+
+
+    if(search.includes('cyber') || search.includes('Cyber') || search.includes('security') || search.includes('Security') || search.includes('hacking') || search.includes('Hacking') || search.includes('ethical') || search.includes('Ethical'))
+    {
+      setUdemy(CyberUdemy);
+      setCoursera(CyberCoursera);
+    }
+
+
+    if(search.includes('artificial') || search.includes('Artificial') || search.includes('intelligence') || search.includes('Intelligence') || search.includes('AI') || search.includes('ai'))
+    {
+      setUdemy(aiUdemy);
+      setCoursera(aiCousera);
+    }
+
+    if(search.includes('java') || search.includes('Java'))
+    {
+      setUdemy(javaUdemy);
+    }
+
    
   }
 
 
   function GetSortOrder(prop) {
     return function (a, b) {
-        if (a[prop] > b[prop]) {
+        if (a[prop] < b[prop]) {
             return 1;
-        } else if (a[prop] < b[prop]) {
+        } else if (a[prop] > b[prop]) {
             return -1;
         }
         return 0;
@@ -104,7 +148,7 @@ function App() {
 }
 
 
-coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on    
+udemy.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on    
 
   return (
     <div>
@@ -114,7 +158,7 @@ coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on
       </div>
 
       <form
-        className=" flex space-x-2 items-center justify-center rounded-full py-2 px-4 bg-[#7870E4] max-w-sm mx-auto mt-[36.7%]  mr-[57.5%]"
+        className=" flex space-x-2 items-center justify-center rounded-full py-2 px-4 bg-[#7870E4] max-w-sm mx-auto mt-[36%]  mr-[57.5%]"
         onSubmit={handleSearch}
       >
         <input
@@ -125,10 +169,9 @@ coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on
           onChange={(e) => setSearch(e.target.value)}
         />
 
-        <button hidden type="submit" onClick={() => onSearch(search)}>
-          Search
+        <button  type="submit" onClick={() => onSearch(search)}>
+          <MagnifyingGlassIcon className=" h-3 w-3 bg-transparent text-black " />
         </button>
-        <MagnifyingGlassIcon className=" h-6 w-6 text-white" />
 
         </form>
 
@@ -237,7 +280,7 @@ coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on
                   <Cards
                     title={cweb.title}
                     price={cweb.price}
-                    image={cweb.img ?? 'CourseraIcon'}
+                    image={cweb.img ?? 'https://play-lh.googleusercontent.com/qq5__wITsoCx2kUK8TqVW2-8UDRuxET9kCzPzAPHad8umXiHRF2N0tZKuLezd0tiBQg'}
                     rating={cweb.rating}
                     about={cweb.about}
                   />
@@ -264,7 +307,7 @@ coursera.sort(GetSortOrder(criteria)); //Pass the attribute to be sorted on
                   <Cards
                     title={cweb.title}
                     price={cweb.price}
-                    image={(cweb.img) ? (cweb.img) : ("https://media.geeksforgeeks.org/wp-content/cdn-uploads/20210311161009/gfg_complete_logo_2x-min.png")}
+                    image={(cweb.img) ? (cweb.img) : ("https://img.icons8.com/color/512/GeeksforGeeks.png")}
                     rating={cweb.rating}
                     about={cweb.about}
                   />

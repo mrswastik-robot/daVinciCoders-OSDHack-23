@@ -1,0 +1,26 @@
+[
+    {
+      "about": "Machine Learning, Cloud Computing, IBM Cloud, Python Programming, Data Analysis, Computer Vision, Computer Programming, Computer ",
+      "id": 1,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://d15cw65ipctsrr.cloudfront.net/2d/c35b3f894a40b2bd4af2451b6daa8b/Professional-Certificate---Applied-AI.png?auto=format%2Ccompress%2C%20enhance&dpr=1&w=600&h=216&fit=fill&q=50",
+      "price": "Free",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "IBM Applied AI"
+    },
+    {
+      "about": "Beginner · Course · 1-4 Weeks",
+      "id": 2,
+      "image": "https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/41/763803169e4d31a5e7611bc928124b/Course-Logo.png?auto=format%2Ccompress%2C%20enhance&dpr=2&w=600&h=216&fit=fill&q=50 2x, https://d3njjcbhbojbot.cloudfront.net/api/utilities/v1/imageproxy/https://s3.amazonaws.com/coursera-course-photos/41/763803169e4d31a5e7611bc928124b/Course-Logo.png?auto=format%2Ccompress%2C%20enhance&dpr=3&w=600&h=216&fit=fill&q=50 3x",
+      "price": "Free",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "AI For Everyone"
+    },
+    {
+      "about":  "Beginner · Specialization · 3-6 Months",
+      "id": 3,
+      "image": " ",
+      "price": "Free",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Intel® AI Fundamentals"
+    }
+  ]
