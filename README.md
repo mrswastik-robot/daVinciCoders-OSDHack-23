@@ -1,70 +1,54 @@
-# Getting Started with Create React App
+![image](https://user-images.githubusercontent.com/97254881/233845461-98b807f8-90fc-4dec-91cf-79f87968671c.png)
 
-This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app).
 
-## Available Scripts
 
-In the project directory, you can run:
+----PART 1----(**Website**)
 
-### `npm start`
+Tired of searching  for  courses  online?  ClashCourse.com  is  a  one  and only place you  will  ever  need!  From  searching  for  top-notch,  best-selling, highly rated courses  out  of  the  most  trusted  websites,  to  having  an  AI powered chatbot,  this place  has  everything  you  will  ever  need to  get  the best quality education.
 
-Runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
+• Our website compares courses  from  different  websites  on  the  basis  of price, money,  reviews,  ratings  etc. 
 
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
+• It gives the highest  and lowest  price  of  the  courses  so  that  it  gets easy for the user  to select  the  course  according  to  his/her  needs. 
 
-### `npm test`
+• It comes with  a  'AI powered  chatbot'  that  can  help  the  user  with education and  course related queries. 
 
-Launches the test runner in the interactive watch mode.\
-See the section about [running tests](https://facebook.github.io/create-react-app/docs/running-tests) for more information.
+• It has a section  for  books that  displays  top  books  that  exists  on  that topic.
 
-### `npm run build`
+`How does our site functions?`
 
-Builds the app for production to the `build` folder.\
-It correctly bundles React in production mode and optimizes the build for the best performance.
 
-The build is minified and the filenames include the hashes.\
-Your app is ready to be deployed!
+![image](https://user-images.githubusercontent.com/97254881/233846250-fc52e0a4-3ad9-40fd-ae5e-93da75f8075c.png)
 
-See the section about [deployment](https://facebook.github.io/create-react-app/docs/deployment) for more information.
 
-### `npm run eject`
+-> On search, our code runs and fetch data stored in JSON file, JSON file is 'not' created maunally. We have used beautiful soup Python library to scrap data from different sites.
 
-**Note: this is a one-way operation. Once you `eject`, you can't go back!**
+-> After that is displays data on the site.
 
-If you aren't satisfied with the build tool and configuration choices, you can `eject` at any time. This command will remove the single build dependency from your project.
+-> There is a feature to compare courses on the basis of price as well as rating, which helps user to compare different courses more efficiently and on the parameter user's want.
 
-Instead, it will copy all the configuration files and the transitive dependencies (webpack, Babel, ESLint, etc) right into your project so you have full control over them. All of the commands except `eject` will still work, but they will point to the copied scripts so you can tweak them. At this point you're on your own.
+-> Chatbot helps as a query solver for users.
 
-You don't have to ever use `eject`. The curated feature set is suitable for small and middle deployments, and you shouldn't feel obligated to use this feature. However we understand that this tool wouldn't be useful if you couldn't customize it when you are ready for it.
+-> Also on clicking the cards user can actually visit the original site to purchase the course.
 
-## Learn More
 
-You can learn more in the [Create React App documentation](https://facebook.github.io/create-react-app/docs/getting-started).
+----PART 2----(**Mobile Application**)
 
-To learn React, check out the [React documentation](https://reactjs.org/).
 
-### Code Splitting
+![image](https://user-images.githubusercontent.com/97254881/233846662-f932036a-73da-4bf8-962e-69d331fc73dd.png)
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/code-splitting](https://facebook.github.io/create-react-app/docs/code-splitting)
 
-### Analyzing the Bundle Size
+What after learning some courses? we students need an internship to showcase that, what we have learnt is useful. Hence we have created a mobile application which resolves this problem.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size](https://facebook.github.io/create-react-app/docs/analyzing-the-bundle-size)
+• Our mobile application requires two inputs from user.
 
-### Making a Progressive Web App
+   1) Your role as an intern.
+   2) Your location.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app](https://facebook.github.io/create-react-app/docs/making-a-progressive-web-app)
+![image](https://user-images.githubusercontent.com/97254881/233846718-5f642076-b081-49f3-b270-83a40dc4b939.png)
 
-### Advanced Configuration
+   
+• After getting the required information our application searches the intern role in that particular location using 'Jsearch API' from Rapid Hub.
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/advanced-configuration](https://facebook.github.io/create-react-app/docs/advanced-configuration)
+• Hence providing all the required information about job role.
 
-### Deployment
 
-This section has moved here: [https://facebook.github.io/create-react-app/docs/deployment](https://facebook.github.io/create-react-app/docs/deployment)
-
-### `npm run build` fails to minify
-
-This section has moved here: [https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify](https://facebook.github.io/create-react-app/docs/troubleshooting#npm-run-build-fails-to-minify)
