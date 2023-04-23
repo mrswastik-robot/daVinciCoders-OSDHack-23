@@ -1,0 +1,18 @@
+[ 
+  { 
+    "about": "Beginner to Advance", 
+    "id": 1, 
+    "image": "https://practice.geeksforgeeks.org/courses/data-science-live", 
+    "price": "Current price: \u20b95999", 
+    "rating": "Rating: 4.8 out of 5", 
+    "title": "Complete Machine Learning & Data Science Program" 
+  }, 
+  { 
+    "about": "Beginner", 
+    "id": 2, 
+    "image": "https://practice.geeksforgeeks.org/courses/fork-data-science-course", 
+    "price": "Current price: \u20b90", 
+    "rating": "Rating: 4.9 out of 5", 
+    "title": "Data Science BootCamp" 
+  }
+]

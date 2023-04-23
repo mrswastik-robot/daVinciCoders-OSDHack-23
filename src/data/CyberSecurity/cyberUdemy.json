@@ -1,0 +1,226 @@
+[
+    {
+      "about": "CompTIA Security+ (SY0-601) Bootcamp - Your preparation for the world's best cybersecurity  certification!",
+      "id": 1,
+      "image": "https://www.udemy.com/course/securityplus/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "CompTIA Security+ (SY0-601) Complete Course & Exam"
+    },
+    {
+      "about": "Start your Cyber security career today! Take the Complete Certified in Cybersecurity  (CC) beginners course ISC2 - 2023",
+      "id": 2,
+      "image": "https://www.udemy.com/course/certifiedincybersecurity/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Complete Certified in Cybersecurity (CC) course ISC2 '23"
+    },
+    {
+      "about": "Cyber Security made easy for absolute beginners - learn from an industry expert with PhD",
+      "id": 3,
+      "image": "https://www.udemy.com/course/cybersecurity-from-beginner-to-expert/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Cyber Security: From Beginner to Expert (2022)"
+    },
+    {
+      "about": "Volume 1 : Become a Cyber Security Specialist, Learn How to Stop Hackers, Prevent Hacking,  Learn IT Security &  INFOSEC",
+      "id": 4,
+      "image": "https://www.udemy.com/course/the-complete-internet-security-privacy-course-volume-1/",
+      "price": "Current price: \u20b93,399",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "The Complete Cyber Security Course : Hackers Exposed!"
+    },
+    {
+      "about": "Learn the basics of I.T. and fundamentals cybersecurity . Complete Beginner Course!",
+      "id": 5,
+      "image": "https://www.udemy.com/course/complete-introduction-to-cybersecurity/",
+      "price": "Current price: \u20b92,899",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Complete Introduction to Cybersecurity 2023"
+    },
+    {
+      "about": "Learn Cyber Security concepts such as hacking, malware, firewalls, worms, phishing, encryption, biometrics, BYOD & more",
+      "id": 6,
+      "image": "https://www.udemy.com/course/the-absolute-beginners-guide-to-information-cyber-security/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Absolute Beginners Guide to Cyber Security 2023 - Part 1"
+    },
+    {
+      "about": "",
+      "id": 7,
+      "image": "https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-practice-exam-n/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "(ISC)2 Certified in Cybersecurity CC Practice Exam : 2023"
+    },
+    {
+      "about": "",
+      "id": 8,
+      "image": "https://www.udemy.com/course/cryptography-and-cybersecurity-in-mobile-devices/",
+      "price": "Current price: \u20b93,299",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "Cryptography and Cybersecurity in Mobile Devices"
+    },
+    {
+      "about": "",
+      "id": 9,
+      "image": "https://www.udemy.com/course/isc2-certified-in-cybersecurity-cc-practice-exam/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "(ISC)2 Certified in Cybersecurity (CC) Practice Exam : 2023"
+    },
+    {
+      "about": "",
+      "id": 10,
+      "image": "https://www.udemy.com/course/isc2-certified-in-cybersecuritycc-practice-exam/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.0 out of 5",
+      "title": "ISC2 - CC-certified in cybersecurity(CC) Practice Exam APR23"
+    },
+    {
+      "about": "",
+      "id": 11,
+      "image": "https://www.udemy.com/course/isa-62443-cybersecurity-fundamentals-specialist-exam-prep/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.9 out of 5",
+      "title": "ISA 62443 Cybersecurity Fundamentals Specialist Exam Prep"
+    },
+    {
+      "about": "",
+      "id": 12,
+      "image": "https://www.udemy.com/course/isc2-certified-in-cybersecurity-exam-practice-tests/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "(ISC)2 Certified in Cybersecurity Exam Practice Tests"
+    },
+    {
+      "about": "",
+      "id": 13,
+      "image": "https://www.udemy.com/course/irresistible-cybersecurity/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 4.8 out of 5",
+      "title": "IRRESISTIBLE: How to Land Your Dream Cybersecurity Position"
+    },
+    {
+      "about": "",
+      "id": 14,
+      "image": "https://www.udemy.com/course/cs0-002-comptia-the-essential-cybersecurity-updated-quiz-qa/",
+      "price": "Current price: \u20b9799",
+      "rating": "Rating: 0.0 out of 5",
+      "title": "CS0-002 CompTIA: The Essential Cybersecurity updated Quiz QA"
+    },
+    {
+      "about": "Pass the CompTIA Cybersecurity  Analyst+ (CS0-002) exam on your 1st attempt, includes a full practice exam!",
+      "id": 15,
+      "image": "https://www.udemy.com/course/comptiacsaplus/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "CompTIA CySA+ (CS0-002) Complete Course & Practice Exam"
+    },
+    {
+      "about": "Get modern blue team skills for finding covert threats in enterprise networks.",
+      "id": 16,
+      "image": "https://www.udemy.com/course/cybersecurity-threat-hunting-for-soc-analysts/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.4 out of 5",
+      "title": "Cybersecurity Threat Hunting for SOC AnalystsGet modern blue team skills for finding covert threats in enterprise networks."
+    },
+    {
+      "about": "Learn about Networking, Malware, Encryption, VPNs, Privacy, Email Security, Social Engineering, Backups and so much more",
+      "id": 17,
+      "image": "https://www.udemy.com/course/the-complete-2018-cyber-security-guide-for-non-professionals/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Absolute Beginners Guide to Cyber Security 2023 - Part 2"
+    },
+    {
+      "about": "Learn to Spot Targeted Email Phishing, Social Engineering Attacks, Hacker Tactics, Browser & Mobile Threats & Much More",
+      "id": 18,
+      "image": "https://www.udemy.com/course/1m-cyber-security-awareness/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "The Beginners 2023 Cyber Security Awareness Training Course"
+    },
+    {
+      "about": "A practitioner's guide to using the NIST Cybersecurity  Framework (CSF) to protect your business or organization",
+      "id": 19,
+      "image": "https://www.udemy.com/course/nist-cybersecurity-framework/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Implementing the NIST Cybersecurity Framework (CSF)"
+    },
+    {
+      "about": "Learn from a 10 year cyber security veteran on how to forge a successful career in the cyber security industry",
+      "id": 20,
+      "image": "https://www.udemy.com/course/becoming-a-cyber-security-professional-the-complete-guide/",
+      "price": "Current price: \u20b92,499",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Start & Grow Your Successful Career in Cyber Security"
+    },
+    {
+      "about": "Learn the Fundamentals of Information Security Management for Non-Techies",
+      "id": 21,
+      "image": "https://www.udemy.com/course/information-security-fundamentals/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.6 out of 5",
+      "title": "Information Security Management Fundamentals for Non-Techies"
+    },
+    {
+      "about": "Learn key Cyber Security concepts to build a comprehensive plan, including Firewall, DDoS, Social Engineering, and more!",
+      "id": 22,
+      "image": "https://www.udemy.com/course/cyberintro/",
+      "price": "Current price: \u20b92,499",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Introduction to Cyber Security - 2 Hour Crash Course"
+    },
+    {
+      "about": "Volume 4 :Become a Cyber Security Specialist, Antivirus & Malware, Disk Encryption, Finding & Removing Hackers & Malware",
+      "id": 23,
+      "image": "https://www.udemy.com/course/the-complete-cyber-security-course-end-point-protection/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "The Complete Cyber Security Course : End Point Protection!"
+    },
+    {
+      "about": "Part 1: Learn Vital Cyber Security Concepts: Understand Cyber Threats, Cyber Security Countermeasures & Much More!",
+      "id": 24,
+      "image": "https://www.udemy.com/course/cyber-security-for-absolute-beginners-essential-concepts/",
+      "price": "Current price: \u20b92,699",
+      "rating": "Rating: 4.7 out of 5",
+      "title": "Cyber Security for Absolute Beginners: Essential Concepts"
+    },
+    {
+      "about": "From Zero to Hero: Start Your CyberSecurity  Career in 2023. Start new life changing and highly paid career now.",
+      "id": 25,
+      "image": "https://www.udemy.com/course/cybersecuritystartcareer2022-thecompletecourse/",
+      "price": "Current price: \u20b91,999",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Start Career in CyberSecurity in 2023 - The Ultimate Guide"
+    },
+    {
+      "about": "Learn real world practical and theoretical cybersecurity  skills to prepare you for any career in cyber security",
+      "id": 26,
+      "image": "https://www.udemy.com/course/the-beginners-guide-to-practical-cyber-security-skills/",
+      "price": "Current price: \u20b93,199",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "The Beginners Guide to Practical Cyber Hacking Skills"
+    },
+    {
+      "about": "Protect yourself, gain the hottest new job skills, and learn the tricks the bad guys use - with Kali Linux & Metasploit!",
+      "id": 27,
+      "image": "https://www.udemy.com/course/real-world-ethical-hacking/",
+      "price": "Current price: \u20b92,699",
+      "rating": "Rating: 4.5 out of 5",
+      "title": "Real-World Ethical Hacking: Hands-on Cybersecurity"
+    },
+    {
+      "about": "Pass your ISC2 Certified in Cybersecurity  (CC) Exam on your first attempt!",
+      "id": 28,
+      "image": "https://www.udemy.com/course/certified-in-cybersecurity-cc-exam-preparation/",
+      "price": "Current price: \u20b92,799",
+      "rating": "Rating: 4.3 out of 5",
+      "title": "ISC2 Certified in Cybersecurity (CC) Practice Exam"
+    }
+  ]
